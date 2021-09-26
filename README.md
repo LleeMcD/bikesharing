@@ -9,9 +9,17 @@ The data that was used for this project was retrieved from Citi Bike Trip Histor
 ![tripduration_pandas_update_dtstamp](https://github.com/LleeMcD/bikesharing/blob/main/Resources/tripduration_pandas_update_dtstamp.png)
 ## Analysis
 ###### Checkout Times
-The total number of riders for August, 2019 was 2,344,224. The data indicates that the check out time for the majority of riders was 10 minutes, with the peak number of checkouts for all riders at 5 minutes. 
-![checkout_times_all_grid_0](https://github.com/LleeMcD/bikesharing/blob/main/Resources/checkout_times_all_grid_0.png)
-The majority of chekouts were made by males with a peak number of 108,087, at 5 minutes. The peak number of female riders was 34,151, at 6 minutes and the peak number of rides for gender unknown was 7,389, at 11 minutes.
+The total number of riders for August, 2019 was 2,344,224. The data indicates that the check out time for the majority of these riders was 10 minutes, with the peak number of checkouts for all riders at 5 minutes. The majority of chekouts were made by males with a peak number of 108,087 at 5 minutes. The peak number of female riders was 34,151 at 6 minutes and the peak number of rides for gender unknown was 7,389, at 11 minutes.
+
+| GENDER  | 5        | 10      | 15     | 20     | 30     | 45     | 59     |
+|---------|----------|---------|--------|--------|--------|--------|--------|
+| ALL     | 146,752  | 106,954 | 66,769 | 45,515 | 21,346 | 3,858  | 1,122  |
+| FEMALE  | 33,041   | 28,247  | 18,085 | 12,400 | 6,082  | 1,049  | 347    |
+| MALE    | 108,087  | 71,049  | 41,571 | 26,251 | 11,511 | 1,898  | 413    |
+| UNKNOWN | 5,624    | 7,298   | 7,113  | 6,864  | 3,753  | 911    | 362    |
+
+
+
 ![Checkout_all_1](https://github.com/LleeMcD/bikesharing/blob/main/Resources/Checkout_all_1.png)
 ![Checkout_gender_lines_2](https://github.com/LleeMcD/bikesharing/blob/main/Resources/Checkout_gender_lines_2.png)
 ###### Daily, Weekly  and Hourly Trips
@@ -23,6 +31,6 @@ The majority of chekouts were made by males with a peak number of 108,087, at 5 
 ![Top_starting_7](https://github.com/LleeMcD/bikesharing/blob/main/Resources/Top_starting_7.png)
 ![Top_ending_8](https://github.com/LleeMcD/bikesharing/blob/main/Resources/Top_ending_8.png)
 ###### Tableau Dashboard 
-The Tableau workbook and story visualizations can be accessed by clicking on the link below:
-[Link to Dashboard](https://public.tableau.com/app/profile/lleemcd8694)
+The Tableau workbook and story visualizations can be accessed by clicking on this link:
+[NYC Bike Project Dashboard](https://public.tableau.com/app/profile/lleemcd8694)
 
