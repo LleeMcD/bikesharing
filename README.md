@@ -64,12 +64,16 @@ Additional visualizations that could be useful to the client include:
 - Bike utilization frequency should also be considered because bike maintenance will likely be one of the biggest expenses with a ride sharing company. 
 
 #### Tableau Dashboard 
-The Tableau workbook and story visualizations for this project can be accessed by clicking on the link below and selecting the visualtization titled "NYC_Citibike_Challenge_Viz"
+The Tableau workbook and story visualizations for this project can be accessed by clicking on the link below and selecting the visualtization titled "NYC_Citibike_Challenge_Viz".
 
 
-[NYC Bike Project Dashboard](https://public.tableau.com/app/profile/lleemcd8694)
+[NYC Bike Project Dashboard Link - Click Here](https://public.tableau.com/app/profile/lleemcd8694)
 
 #### Resources
 - Citi Bike System Data: https://ride.citibikenyc.com/system-data
+- Course content:
+	- © 2020 - 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+- Loth, A., Vogel, N., & Sparkes, S. (2019). _Visual analytics with tableau_. John Wiley & Sons, Inc. 
+	
 
 
