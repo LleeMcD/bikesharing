@@ -70,4 +70,6 @@ The Tableau workbook and story visualizations for this project can be accessed b
 [NYC Bike Project Dashboard](https://public.tableau.com/app/profile/lleemcd8694)
 
 #### Resources
+- Citi Bike System Data: https://ride.citibikenyc.com/system-data
+
 
